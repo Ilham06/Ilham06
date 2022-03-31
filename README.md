@@ -2,3 +2,5 @@
 When I'm bored, I write code, and I really like it.
 
 Some of my projects here are the result of my boredom :d
+
+see more about me : https://ilham06.github.io
